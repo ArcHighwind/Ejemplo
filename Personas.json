@@ -1,0 +1,16 @@
+{
+    "personas" :
+        [
+            {
+                "primerNombre" : "David",
+                "apellido" : "Zuniga",
+                "edad" : 27,
+                "fechaNacimiento" : 1995,
+                "direccion" : "Col. 15 de Septiembre",
+                "departamento" : "Francisco Morazan",
+                "ciudad" : "Tegucigalpa",
+                "pasatiempo" : "Jugar y Programar",
+                "ID" : "0801-1995-17110" 
+            }
+        ]
+}
